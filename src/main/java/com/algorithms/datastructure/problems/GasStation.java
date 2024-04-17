@@ -1,4 +1,4 @@
-package com.algorithms.datastructure;
+package com.algorithms.datastructure.problems;
 
 public class GasStation {
 

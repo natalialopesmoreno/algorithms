@@ -1,4 +1,4 @@
-package com.algorithms.datastructure;
+package com.algorithms.datastructure.problems;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

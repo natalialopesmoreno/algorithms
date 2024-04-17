@@ -1,4 +1,4 @@
-package com.algorithms.datastructure;
+package com.algorithms.datastructure.problems;
 
 public class RecursiveFactorial {
     // Factorial F4 = 4*3*2*1

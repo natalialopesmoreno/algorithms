@@ -1,4 +1,4 @@
-package com.algorithms.datastructure;
+package com.algorithms.datastructure.problems;
 
 public class RemoveElement {
     public static int removeElement(int[] nums, int val) {
